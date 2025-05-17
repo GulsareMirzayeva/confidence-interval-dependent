@@ -20,9 +20,8 @@ We do this by calculating a **95% confidence interval** for the **mean differenc
   - t-critical value (from t-distribution)
   - Confidence interval using the formula:
 
-\[
-\bar{d} \pm t_{\alpha/2, n-1} \cdot \frac{s_d}{\sqrt{n}}
-\]
+![Confidence Interval Formula](images/formula.png)
+
 
 ---
 
